@@ -1,20 +1,20 @@
-#### Hi! I'm Henry 👋
+### Hi! I'm Henry 👋
 
 - Learning more about: Emulators and low-level functionality.
 
-##### Here are some of the things that I'm working on
+#### Here are some of the things that I'm working on
 
-#### Web Apps
+### Web Apps
 
 - Crowdbyte
 - Investutils
 
-#### Machine Learning
+### Machine Learning
 
 - Phorama
 - Happy
 
-#### Other
+### Other
 
 - Gerrymandering
 - Pyengine3d
