@@ -1,4 +1,6 @@
 ### Hi! I'm Henry 👋
+
+[My Website](https://henryhaefliger.com) | [My Linkedin](https://linkedin.com/in/henry-haefliger)
 ---
 
 - :seedling: Currently learning more about: Emulators and low-level functionality.
