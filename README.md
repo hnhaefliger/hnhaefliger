@@ -22,7 +22,7 @@
 ### Machine Learning
 ---
 
-- :framed_picture: [Phorama](https://github.com) is an implementation of different generative adversial networks such as SRGAN and UNet for neural image superresolution. These were implemented using Tensorflow and Keras.
+- :framed_picture: [Phorama](https://github.com/hnhaefliger/phorama) is an implementation of different generative adversial networks such as SRGAN and UNet for neural image superresolution. These were implemented using Tensorflow and Keras.
 - :smiley: [Happy](https://github.com) is a refactor of the personal digital assistant I built from scratch. Happy itself is still largely a work in progress but the original code can be found in my [other repository](https://github.com). The first time around, I developed the models using Tensorflow and Keras but this time I am using PyTorch because it has more built in audio utilities and to get more exposure to another framework.
 
 ### Other
