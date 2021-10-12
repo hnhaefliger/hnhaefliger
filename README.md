@@ -11,7 +11,7 @@
 
 ### Machine Learning
 
-- :framed_picture: Phorama
+- :framed_picture: [Phorama](https://github.com) is an implementation of different generative adversial networks such as SRGAN and UNet for neural image superresolution. These were implemented using Tensorflow and Keras.
 - :smiley: Happy
 
 ### Other
