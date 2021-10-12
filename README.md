@@ -1,6 +1,6 @@
 ### Hi! I'm Henry 👋
 
-- Learning more about: Emulators and low-level functionality.
+- :seedling: Currently learning more about: Emulators and low-level functionality.
 
 #### Here are some of the things that I'm working on
 
