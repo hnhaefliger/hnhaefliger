@@ -16,7 +16,7 @@
 
 ### Other
 
-- :performing_arts: Gerrymandering
-- :ice_cube: Pyengine3d
-- :package: Bittorrent
-- :computer: (Emulators)
+- :performing_arts: [Gerrymandering](https://github.com) is a proof of concept for algorithmic gerrymandering. It uses data published by [OpenPrecincts](https://openprecincts.org) to build a state election map for Pennsylvania. It then gradually edits the voting districts by flipping neighboring precincts to optimize for equal population, district perimeter to area ratio, average precinct distance from district and of course desired voting outcomes. There is still some work to be done to speed up the perimeter and area calculations for the irregular shapes and to prevent districts from being 'cut in half' by other, expanding districts.
+- :ice_cube: [Pyengine3d](https://github.com) 
+- :package: [Bittorrent](https://github.com)
+- (:computer: [Emulators](https://github.com))
