@@ -6,17 +6,17 @@
 
 ### Web Apps
 
-- Crowdbyte
-- Investutils
+- :handshake: Crowdbyte
+- :gear: Investutils
 
 ### Machine Learning
 
-- Phorama
-- Happy
+- :framed_picture: Phorama
+- :smiley: Happy
 
 ### Other
 
-- Gerrymandering
-- Pyengine3d
-- Bittorrent
-- (Emulators)
+- :performing_arts: Gerrymandering
+- :ice_cube: Pyengine3d
+- :package: Bittorrent
+- :computer: (Emulators)
