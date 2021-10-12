@@ -1,16 +1,22 @@
-### Hi there 👋
+#### Hi! I'm Henry 👋
 
-<!--
-**hnhaefliger/hnhaefliger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Learning more about: Emulators and low-level functionality.
 
-Here are some ideas to get you started:
+##### Here are some of the things that I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Web Apps
+
+- Crowdbyte
+- Investutils
+
+#### Machine Learning
+
+- Phorama
+- Happy
+
+#### Other
+
+- Gerrymandering
+- Pyengine3d
+- Bittorrent
+- (Emulators)
