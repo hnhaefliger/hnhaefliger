@@ -5,7 +5,7 @@
 
 ---
 
-- :seedling: Currently learning more about: Emulators and low-level functionality.
+:seedling: Currently learning more about: Emulators and low-level functionality.
 
 ---
 
