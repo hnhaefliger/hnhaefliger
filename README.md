@@ -33,4 +33,4 @@
 - :octopus: [Tentacles](https://github.com/hnhaefliger/tentacles) is a Unity3D game in which the player pulls themselves around infinite proceedural terrain using elastic tentacles.
 - :package: [Bittorrent](https://github.com/hnhaefliger/bittorrent) is a simple bittorrent client build on python's sockets and threading libraries and based on the bittorrent spec.
 - (:computer: [Emulators](https://github.com/hnhaefliger/chip8)) are what I am currently working on. The works in progress are CHIP-8, NES (6502), and a TI calculator (Z80).
-- (:coin: [Coin](https://github.com/hnhaefliger/coin)) a barebones implementation of the bitcoin whitepaper.
+- (:moneybag: [Coin](https://github.com/hnhaefliger/coin)) a barebones implementation of the bitcoin whitepaper.
